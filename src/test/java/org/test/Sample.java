@@ -7,7 +7,7 @@ public class Sample {
 		System.out.println("This is a sample class");
 		System.out.println("This is Kumar's 2nd day code");
 		System.out.println("This is aruns' day 2 wrk");
-
+		System.out.println("This is kumar 3rd line");
 		
 		
 
